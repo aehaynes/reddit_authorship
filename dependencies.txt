@@ -1,7 +1,10 @@
 #Dependencies (Python3)
-gensim
-pickle
 sqlite3
 praw
 requests
 json
+numpy
+scipy
+sklearn
+sparsesvd
+gensim
