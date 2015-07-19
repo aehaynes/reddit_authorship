@@ -1,3 +1,10 @@
+The following is a list of rankings for probable sock accounts given by: 
+   (score, (user_1, user_2)) 
+ where 
+    score = sock ranking score
+    user_1, and user_2 = a pair of users that is possibly controlled by the same person
+
+
 [[1.0, ['redflagsforever', 'keirashark']],
  [0.33333333333333331, ['ddja', 'klokanx']],
  [0.33333333333333331, ['xnovaxcp', 'bahatassafus']],
