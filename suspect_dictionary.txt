@@ -1,4 +1,5 @@
-The following is a dictionary of suspects of multi-account use. The dictionary (key, value) represents accounts that are possibly from the same person.
+The following is a dictionary of suspects of multi-account use. 
+The dictionary (key, value) represents accounts that are possibly from the same person.
 
 {'110101002': ['ergofobe', 'bitskeptic'],
  '12345768': ['iHaveNoSocialFilter'],
