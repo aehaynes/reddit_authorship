@@ -21,8 +21,8 @@ Project Files:
 	setup_data_index.py -- Modules for preprocessing comments, setting features, setting dataframes and indices
 	setup_db.py -- Module for DB schema and function calls
 	stoplist.pkl -- stopwords used in the analysis
-	main_tunemodels.py -- Run this to tune to optimal number of topics for the topic models
-	num_topics.pkl -- Results from main_tunemodels.py used in this analysis	
+	main_tunemodels.py -- Run this to tune to optimal number of topics for the topic models (this may be slow)
+	num_topics.pkl -- Results from main_tunemodels.py used in this analysis	(use this to avoid running main_tunemodels.py)
 	main_dataframes.py -- Run this to create dataframes for classification
 
 	setup_experiments.py -- Functions for constructing dataframes and model building. Not well documented
