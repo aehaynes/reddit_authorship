@@ -1,6 +1,13 @@
 # reddit_authorship
 An analysis to detect authors with multiple accounts in comments from the /r/Bitcoin subreddit. See andrehaynes.me/portfolio for the full report
 
+Project Report:
+	http://andrehaynes.me/static/AA_Reddit.pdf
+
+
+Project Database
+	https://www.dropbox.com/s/sn64yu46kr5z1m9/redditDB.sqlite?dl=0
+
 
 Project Files
 
