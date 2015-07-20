@@ -1,7 +1,7 @@
 The following is a list of rankings for probable sock accounts given by: 
    (score, (user_1, user_2)) 
  where 
-    score = sock ranking score to induce an ordering on the list (NOT A PROBABILITY VALUE)
+    score = sock ranking score used to induce an ordering on the list (this is not a probability value)
     user_1, and user_2 = a pair of users that is possibly controlled by the same person
 
 
