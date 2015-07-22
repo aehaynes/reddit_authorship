@@ -8,4 +8,5 @@ scipy
 sklearn
 sparsesvd
 gensim
+nltk
 h5py
